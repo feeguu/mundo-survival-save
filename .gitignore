@@ -1,0 +1,12 @@
+# baixado/gerado automaticamente
+server.jar
+server.jar.tmp
+libraries/
+versions/
+logs/
+crash-reports/
+usercache.json
+world/session.lock
+# copias de seguranca de mundos que divergiram
+backups-locais/
+.comandos.txt
